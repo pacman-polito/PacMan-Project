@@ -3,6 +3,7 @@ This is a version of the PacMan videogame, entirely realized in VHDL as a final 
 
 
 Copyright (c) 2015  -  Giorgio Avalle & Carlo Cannas
+Video: https://www.youtube.com/watch?v=o7dusaHg-xw
 
 Giorgio: "me@giorgioavalle.it"
 
